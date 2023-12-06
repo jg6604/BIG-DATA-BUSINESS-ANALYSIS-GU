@@ -9,7 +9,7 @@ This dataset is a subset of Yelp’s businesses, reviews and user data which inc
 
 ## Technology:
 Data Analytics: Apache Spark(PySpark) Spark Machine Learning  
-Data Visualization: JavaScript, D3.js 
+Data Visualization: JavaScript, D3.js, HTML5, CSS 
 
 data visualization D3.js code link observable:
 
