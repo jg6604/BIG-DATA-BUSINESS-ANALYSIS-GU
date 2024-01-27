@@ -1,5 +1,5 @@
 # big-data-project
-YELP business analysis with big data technique
+YELP business analysis with big data technique Spark, Hadoop, D3.js
 
 ## DESIGNED BY GU
 
